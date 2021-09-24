@@ -24,8 +24,6 @@ class ConvetTempo {
     }
 }
 
-
- 
 console.log(ConvetTempo.minutoParaSegundo(1))
 console.log(ConvetTempo.horaParaMinuto(1))
 console.log(ConvetTempo.diaParaHoras(1))
